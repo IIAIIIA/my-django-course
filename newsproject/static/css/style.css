@@ -1,3 +1,8 @@
 body{
     background-color: #5788f4;
 }
+
+.errorlist-1 {
+    color: red;
+    list-style-type: none ;
+}
